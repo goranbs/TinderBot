@@ -7,7 +7,7 @@ A bot which swipes Tinder for you!
  - Python 3
  - install chromedriver, and set the path to chromedriver in `tinderbot.py`:
     - chromedriver_loc =`C:\path\to\chromedriver.exe`
-    - Download: (chromedriver)[https://chromedriver.chromium.org/downloads]
+    - Download: [chromedriver](https://chromedriver.chromium.org/downloads)
  - `pip install -r requirements.txt`
 
 create a secrets.py file with variables:
