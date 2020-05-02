@@ -9,8 +9,7 @@ A bot which swipes Tinder for you!
     - chromedriver_loc =`C:\path\to\chromedriver.exe`
     - Download: [chromedriver](https://chromedriver.chromium.org/downloads)
  - `pip install -r requirements.txt`
-
-create a secrets.py file with variables:
+ - create a secrets.py file with variables:
 ```
  username = 'your_username'
  password = 'your_password'
