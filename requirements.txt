@@ -1,0 +1,4 @@
+# Requirements
+
+numpy==1.16.2
+selenium==3.141.0
